@@ -1,6 +1,4 @@
-# ECE-275-Final-Project
-
-## My final project for ECE 275 (Programming for Engineering II)
+# My final project for ECE 275 (Programming for Engineering II)
 
 ### An Explanation of my Project 2
 1. My program is split into two parts, an abstract graph class, and the shortest path solver class.
